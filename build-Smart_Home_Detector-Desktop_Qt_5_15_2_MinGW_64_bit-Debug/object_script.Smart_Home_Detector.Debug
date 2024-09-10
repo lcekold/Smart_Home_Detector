@@ -1,0 +1,13 @@
+debug/dataview.o
+debug/main.o
+debug/myexcption.o
+debug/opention.o
+debug/serialworker.o
+debug/uartassist.o
+debug/widget.o
+debug/qrc_Resouce.o
+debug/moc_dataview.o
+debug/moc_opention.o
+debug/moc_serialworker.o
+debug/moc_uartassist.o
+debug/moc_widget.o

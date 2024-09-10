@@ -1,0 +1,39 @@
+QWidget{
+    background-color:rgb(30,30,30);
+}
+
+QComboBox{
+    background-color:rgb(60,60,60);
+    color:rgb(255,255,255);  /*设置文字颜色*/
+}
+
+QComboBox QAbstractItemView{
+    background-color:rgb(60,60,60);
+    color:rgb(255,255,255);  /*设置文字颜色*/
+}
+
+QPushButton{
+    background-color:rgb(75,75,75);
+    color:rgb(255,255,255);
+}
+
+QLabel{
+    color:rgb(255,255,255);
+}
+
+QGroupBox::title{
+    color:rgb(255,255,255);
+}
+
+QTextEdit{
+    background-color:rgb(75,75,75);
+}
+
+QLCDNumber{
+    background-color:rgb(75,75,75);
+    color:rgb(155,155,155);
+}
+
+#TextBrowser_Time{
+    background-color:rgb(120,120,120);
+}

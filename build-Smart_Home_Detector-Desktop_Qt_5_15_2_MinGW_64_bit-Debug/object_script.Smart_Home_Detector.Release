@@ -1,0 +1,13 @@
+release/dataview.o
+release/main.o
+release/myexcption.o
+release/opention.o
+release/serialworker.o
+release/uartassist.o
+release/widget.o
+release/qrc_Resouce.o
+release/moc_dataview.o
+release/moc_opention.o
+release/moc_serialworker.o
+release/moc_uartassist.o
+release/moc_widget.o
